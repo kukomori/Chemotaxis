@@ -14,7 +14,7 @@ void setup()
 void draw()   
 {    
   //move and show the bacteria
-  background(145);
+  background(0);
   dog();
   for(int i = 0; i < colony.length; i++)
   {
